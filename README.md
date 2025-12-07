@@ -2,7 +2,7 @@
 
 ## About
 
-In a world dominated by humans and an ever-growing population, there is a need to accommodate our way of living. Data released by the U.S. Geological Survey in 2021 identified Maricopa County as the U.S. county with the most significant increase in developed land since 2001 [1]. This rapid landscape buildup has expanded into undeveloped area which has significant effects on biodiversity and the well-being of surrounding natural environments. 
+In a world dominated by humans and an ever-growing population. The ongoing loss of undeveloped land appears increasingly inevitable as human populations expand. Data released by the U.S. Geological Survey in 2021 identified Maricopa County as the U.S. county with the most significant increase in land development since 2001 [1]. This rapid landscape buildup has expanded into undeveloped area which has significant effects on biodiversity and the well-being of surrounding natural environments. 
 
 This repository containts a Python notebook exploring value changes of the Biodviersit Intactness Index (BII) dataset[2,3] and analysis the impacts of urban expnasion in the Phoenix metropolian area between 2017 and 2020. 
 
