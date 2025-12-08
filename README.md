@@ -11,7 +11,6 @@ This repository containts a Python notebook exploring value changes of the Biodv
 ├── LICENSE
 ├── README.md
 ├── data
-│   └── 
 └── figures
     └── phoenix_county.png
 # Data Citation
