@@ -11,14 +11,7 @@ This repository containts a Python notebook exploring value changes of the Biodv
 ├── LICENSE
 ├── README.md
 ├── data
-│   └── tl_2022_04_cousub
-│       ├── tl_2022_04_cousub.cpg
-│       ├── tl_2022_04_cousub.dbf
-│       ├── tl_2022_04_cousub.prj
-│       ├── tl_2022_04_cousub.shp
-│       ├── tl_2022_04_cousub.shp.ea.iso.xml
-│       ├── tl_2022_04_cousub.shp.iso.xml
-│       └── tl_2022_04_cousub.shx
+│   └── 
 └── figures
     └── phoenix_county.png
 # Data Citation
