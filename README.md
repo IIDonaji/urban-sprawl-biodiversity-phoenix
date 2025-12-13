@@ -1,4 +1,4 @@
-# Changes in Biodiversity Intactness Index influenced by Urban Expansion in The Phoenix Metropolitan Area Over Time
+# Changes in Biodiversity Intactness Index in The Phoenix Metropolitan Area Over Time
 
 ## About
 
