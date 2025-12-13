@@ -6,7 +6,7 @@ In a world dominated by humans and an ever-growing population. The ongoing loss 
 
 This repository containts a Python notebook exploring value changes of the Biodviersit Intactness Index (BII) dataset[2,3] and analysis the impacts of urban expnasion in the Phoenix metropolian area between 2017 and 2020. 
 
-## Repository Structure 
+### Repository Structure 
 
 ```
 urban-sprawl-biodiversity-phoenix
